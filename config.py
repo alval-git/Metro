@@ -1,3 +1,3 @@
 
-DATABASE_URI = "postgresql+psycopg2://postgres:sanya3377@127.0.0.1:5432/metro_db"
+DATABASE_URI = "postgresql+psycopg2://user:password@host:port/db_name"
 DEBUG = True
